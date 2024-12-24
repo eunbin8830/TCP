@@ -1,0 +1,9 @@
+This is about TCP between Matlab->Python.
+
+Fistly, Matlab creates random b-mode images 
+and send to Python. 
+Secondly, Python receives the images and display it. 
+
+
+1. Check the ip address and Run MATLAB
+2. And run PYTHON.
